@@ -1,5 +1,6 @@
 hi how are you.
-This is my first file in git.
-ls
-<h1>
-hi this is my second filegit status
+This is Version 1 
+This is version 2
+This is version 3 
+This is version 4
+This is version 5
